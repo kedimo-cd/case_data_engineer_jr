@@ -86,11 +86,14 @@ Os Dados de vendas e clientes foram fornecidos em formato CSV e serão carregado
   
 - Insght 1: Correto, o grafico valida o valor 20 para valor minimo de vendas e 120 para valor máximo. També é possivel notar que a média está em 66.45
   *******
+
+  ### Insight 2
 ![alt text](https://github.com/kedimo-cd/case_data_engineer_jr/blob/main/img/insight2.png)
 -  A Média de Preços unitarios dos produtos é de 28.6. Já o valor minimo é 20 e o máximo é de 40 o que pode indicar uma variação significativa nos preços dos produtos, indicando uma gama diversificada de produtos com diferentes faixas de preço.
   
 - Insght 2: Correto, o gráfico mostra que os preço unitários varim entre 20 e 40, com média de 28.6.
   *******
+  ### Insight 3
   ![alt text](https://github.com/kedimo-cd/case_data_engineer_jr/blob/main/img/insght3.png)
 -   Todas as datas de pedidos estão dentro do intervalo esperado (ano de 2024), o que indica que os dados de datas são consistentes e apropriados.
   
